@@ -1,6 +1,6 @@
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow (arr)
-  puts arr
+  print arr
 end
 
 display_rainbow(colors)
